@@ -5,6 +5,7 @@ if a<b:
   print(a**b)
 print(c)
 print(a*b)
+print(a/b)
 #hola
 #holax2
 
